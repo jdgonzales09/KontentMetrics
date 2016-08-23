@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is for content creators to manage their content easily among their teams. It will also allow for real time analytics on various pages.
 
-Things you may want to cover:
+## Versions
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails 5.0.0.1
+* Ruby 2.3
